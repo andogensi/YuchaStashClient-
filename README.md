@@ -1,3 +1,3 @@
 # YuchaStashClient-
-##　introduction-紹介
-仕様技術
+## introduction-紹介
+使用言語
